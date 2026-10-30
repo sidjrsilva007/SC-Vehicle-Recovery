@@ -31,8 +31,8 @@ The same vehicle entity is retained together with its inventory. This is not a r
 [/list]
 
 [h2]In-game demonstration[/h2]
-[b]Unstick: vehicle recovered away from the fence[/b]
-[img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/Desbloc.png[/img]
+[b]Before: car stuck in the fence, with the unstick action available[/b]
+[img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/Desenroscar_Antes.png[/img]
 
 [b]After recovery: clear access and the unstick action is no longer offered[/b]
 [img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/okok.png[/img]

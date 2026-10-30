@@ -50,7 +50,7 @@ The source does not include test missions, spawned test cars, admin settings, us
 
 ### Vehicle recovery
 
-![Vehicle recovered away from the fence](assets/Desbloc.png)
+![Car stuck in the fence, with the unstick action available](assets/Desenroscar_Antes.png)
 
 ### Clear driver access after recovery
 

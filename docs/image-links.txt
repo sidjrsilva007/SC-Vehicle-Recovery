@@ -1,5 +1,5 @@
-Desbloc.png
-https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/Desbloc.png
+Desenroscar_Antes.png
+https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/Desenroscar_Antes.png
 
 okok.png
 https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/okok.png

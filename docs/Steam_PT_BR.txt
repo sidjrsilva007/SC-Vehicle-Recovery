@@ -31,8 +31,8 @@ A operação utiliza o mesmo veículo, preservando a entidade e seu inventário.
 [/list]
 
 [h2]Demonstração em jogo[/h2]
-[b]Desenroscar: veículo recuperado para fora da cerca[/b]
-[img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/Desbloc.png[/img]
+[b]Antes: carro preso na cerca, com a ação de desenroscar disponível[/b]
+[img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/Desenroscar_Antes.png[/img]
 
 [b]Após recuperar: acesso livre e ação de desenroscar indisponível[/b]
 [img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/okok.png[/img]

@@ -48,9 +48,9 @@ Não há missões de teste, configurações de admin, identidades de jogadores o
 
 ## Ilustrações
 
-### Recuperação do veículo para fora da cerca
+### Antes: veículo preso na cerca
 
-![Veículo recuperado](assets/Desbloc.png)
+![Veículo preso com a ação de desenroscar disponível](assets/Desenroscar_Antes.png)
 
 ### Acesso ao motorista livre após a recuperação
 
