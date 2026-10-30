@@ -1,0 +1,13 @@
+# Build output stays local. This repository distributes source and documentation only.
+dist/
+__pycache__/
+*.pyc
+*.pbo
+*.bisign
+*.bikey
+*.biprivatekey
+*.log
+*.RPT
+*.ADM
+*.mdmp
+.env

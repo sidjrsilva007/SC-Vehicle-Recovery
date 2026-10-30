@@ -1,0 +1,45 @@
+[img]https://i.imgur.com/sS0NABg.gif[/img]
+
+[h1]SC Vehicle Recovery — English[/h1]
+[b]Flip overturned cars and recover physically stuck vehicles through native DayZ actions.[/b]
+
+A free community mod by [b]Shiryu Careca | DiaZero[/b]. Recover your vehicle without tools or calling an administrator for these situations.
+
+[h2]Two contextual actions[/h2]
+[list]
+[*][b]Desvirar veiculo (Flip vehicle):[/b] puts overturned cars back upright.
+[*][b]Desenroscar veiculo (Unstick vehicle):[/b] only appears on an upright car when a physical obstacle intersects its body or blocks the driver entry space. A clear car in an open field does not qualify.
+[/list]
+
+[h2]How to use[/h2]
+Get out, keep your hands empty and lowered, approach and look at the car. Use the button shown by the game's native action prompt: attack, usually left mouse. The car must be stationary and unoccupied. [b]Cargo can remain inside.[/b]
+
+[h2]Controlled recovery[/h2]
+The server searches within [b]8 meters[/b], checking collisions, water, uneven ground and driver entry space. Players cannot choose an arbitrary destination with their cursor. If no safe position is found, the car stays put.
+Physical obstruction is checked again on the server. People and loose inventory items do not enable recovery. Successful recoveries have a 60-second cooldown per vehicle; unsuccessful attempts have a 10-second delay.
+
+[h2]Parts and cargo[/h2]
+The same vehicle entity is retained together with its inventory. This is not a repair or refueling mod and does not restore missing parts.
+
+[h2]Installation and compatibility[/h2]
+[list]
+[*]Load on [b]both server and clients[/b] using -mod and copy the .bikey to the server keys folder.
+[*][b]No external dependencies.[/b] CF, COT and VPP are not required.
+[*]Load the PBO only once. Do not run the standalone mod alongside a second copy embedded in a modpack.
+[*]Tested locally with vanilla cars on DayZ 1.30. Modded cars require CarScript inheritance, valid geometry and correct driver entry points; compatibility depends on the model.
+[*]This version does not generate a JSON configuration file. Action labels are currently in Portuguese.
+[/list]
+
+[h2]In-game demonstration[/h2]
+[b]Unstick: vehicle recovered away from the fence[/b]
+[img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/Desbloc.png[/img]
+
+[b]After recovery: clear access and the unstick action is no longer offered[/b]
+[img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/okok.png[/img]
+
+[b]Flip vehicle: native action with its corresponding button[/b]
+[img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/Flip.png[/img]
+
+[b]Enjoying my work? Please leave a thumbs up and add this mod to your favorites![/b]
+Created by [b]Shiryu Careca | DiaZero[/b]. Free for the community.
+

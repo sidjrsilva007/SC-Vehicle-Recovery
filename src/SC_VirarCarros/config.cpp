@@ -1,0 +1,2 @@
+class CfgPatches {class SC_VirarCarros {units[]={};weapons[]={};requiredAddons[]={"DZ_Data","DZ_Scripts"};author="Shiryu Careca";};};
+class CfgMods {class SC_VirarCarros {name="SC Virar Carros";author="Shiryu Careca";type="mod";dependencies[]={"World"};class defs {class worldScriptModule {value="";files[]={"SC_VirarCarros/scripts/4_World"};};};};};

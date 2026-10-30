@@ -1,0 +1,45 @@
+[img]https://i.imgur.com/sS0NABg.gif[/img]
+
+[h1]SC Vehicle Recovery[/h1]
+[b]Desvire e desenrosque veículos com ações nativas do DayZ.[/b]
+
+Um mod gratuito para a comunidade, desenvolvido por [b]Shiryu Careca | DiaZero[/b]. Recupere seu carro sem depender de ferramentas ou de um administrador para pequenos imprevistos.
+
+[h2]Duas ações, no momento certo[/h2]
+[list]
+[*][b]Desvirar veículo:[/b] coloca de pé carros tombados ou capotados.
+[*][b]Desenroscar veículo:[/b] aparece apenas em um carro em pé quando há obstrução física na carroceria ou no acesso do motorista, como uma cerca atravessando o veículo. Carro livre no campo não habilita a ação.
+[/list]
+
+[h2]Como usar[/h2]
+Saia do carro, fique com as mãos livres e abaixadas, aproxime-se e olhe para o veículo. Acione o botão indicado pela interface do jogo: ataque, normalmente clique esquerdo. O carro precisa estar parado e sem ocupantes. [b]Não precisa retirar a carga![/b]
+
+[h2]Recuperação controlada[/h2]
+O servidor procura um local a até [b]8 metros[/b], conferindo colisão, água, desnível e espaço para entrar pelo lado do motorista. O destino não é escolhido pelo cursor. Se não encontrar local seguro, não move o carro.
+A checagem de obstrução é refeita no servidor. Pessoas e itens soltos não habilitam a ação. Depois de uma recuperação bem-sucedida, há intervalo de 60 segundos por veículo; tentativas sem sucesso têm intervalo de 10 segundos.
+
+[h2]Peças e inventário[/h2]
+A operação utiliza o mesmo veículo, preservando a entidade e seu inventário. Não repara danos, não repõe peças e não reabastece.
+
+[h2]Instalação e compatibilidade[/h2]
+[list]
+[*]Carregar no [b]cliente e servidor[/b] com -mod. Copiar a .bikey para a pasta keys do servidor.
+[*][b]Sem dependências externas.[/b] CF, COT e VPP não são exigidos.
+[*]Se incorporar em um modpack, carregue o PBO somente uma vez; não use outra cópia no standalone ao mesmo tempo.
+[*]Testado com carros vanilla no DayZ 1.30. Veículos de mods precisam de CarScript, geometria e pontos de entrada corretos; compatibilidade depende do modelo.
+[*]Esta versão não gera JSON de configuração. As ações aparecem em português.
+[/list]
+
+[h2]Demonstração em jogo[/h2]
+[b]Desenroscar: veículo recuperado para fora da cerca[/b]
+[img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/Desbloc.png[/img]
+
+[b]Após recuperar: acesso livre e ação de desenroscar indisponível[/b]
+[img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/okok.png[/img]
+
+[b]Desvirar veículo: ação nativa com o botão correspondente[/b]
+[img]https://raw.githubusercontent.com/sidjrsilva007/SC-Vehicle-Recovery/main/assets/Flip.png[/img]
+
+[b]Gostou do meu trabalho? Deixe seu joinha e adicione o mod aos favoritos![/b]
+Autor e desenvolvimento: [b]Shiryu Careca | DiaZero[/b]. Disponibilizado gratuitamente para a comunidade.
+
